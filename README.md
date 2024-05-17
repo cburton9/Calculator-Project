@@ -11,8 +11,8 @@ Key Features:
 
 To Use:
 
-1. Save the code as a Python file (e.g., calculator.py).
-2. Run the script using python calculator.py.
+1. Save the code as a Python file (e.g., Calculator Project.py).
+2. Run the script using python Calculator Project.py.
 3. Follow the on-screen prompts to enter your operation and numbers.
 
 This basic calculator is a handy tool for everyday calculations. It can be further extended to support additional features like more operations or error handling for invalid number inputs.
